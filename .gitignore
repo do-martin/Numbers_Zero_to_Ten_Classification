@@ -2,7 +2,7 @@
 .venv/
 epic_num_reader.model/
 number_1.png
-number_1 - Kopie.png
+pic/
 main.py
 env
-model-keras
+model.keras
