@@ -59,7 +59,6 @@ To facilitate an accurate assessment of the model's performance, please ensure t
 - Keras
 - NumPy
 - Matplotlib
-- Seaborn
 - Pillow
 
 You can find the specific library versions in the `requirements.txt` file.

@@ -3,6 +3,7 @@
 epic_num_reader.model/
 number_1.png
 pic/
+models/*
 main.py
 env
 model.keras
