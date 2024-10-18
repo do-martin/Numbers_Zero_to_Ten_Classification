@@ -13,10 +13,10 @@ Before you begin, ensure you have the following installed:
 
 ### Clone the Repository
 
-    ```bash
-    git clone https://github.com/do-martin/Numbers_Zero_to_Ten_Classification.git
-    cd Numbers_Zero_to_Ten_Classification
-    ```
+```bash
+git clone https://github.com/do-martin/Numbers_Zero_to_Ten_Classification.git
+cd Numbers_Zero_to_Ten_Classification
+```
 
 ### Install Required Packages
 
